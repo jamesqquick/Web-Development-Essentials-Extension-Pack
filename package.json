@@ -1,0 +1,27 @@
+{
+  "name": "web-development-essentials-extension-pack",
+  "displayName": "Web Development Essentials Extension Pack",
+  "description": "This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!",
+  "version": "0.0.1",
+  "publisher": "jamesqquick",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamesqquick/Web-Development-Essentials-Extension-Pack"
+  },
+  "extensionDependencies": [
+    "msjsdiag.debugger-for-chrome",
+    "formulahendry.auto-rename-tag",
+    "xabikos.JavaScriptSnippets",
+    "ritwickdey.LiveServer",
+    "WallabyJs.quokka-vscode",
+    "esbenp.prettier-vscode",
+    "CoenraadS.bracket-pair-colorizer"
+  ]
+}
