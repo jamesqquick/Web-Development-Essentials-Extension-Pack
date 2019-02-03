@@ -17,11 +17,22 @@
   },
   "extensionDependencies": [
     "msjsdiag.debugger-for-chrome",
-    "formulahendry.auto-rename-tag",
     "xabikos.JavaScriptSnippets",
+    "dbaeumer.vscode-eslint",
     "ritwickdey.LiveServer",
+    "CoenraadS.bracket-pair-colorizer",
+    "formulahendry.auto-rename-tag",
     "WallabyJs.quokka-vscode",
+    "christian-kohler.path-intellisense",
+    "alefragnani.project-manager",
+    "EditorConfig.EditorConfig",
+    "auchenberg.vscode-browser-preview",
+    "eamodio.gitlens",
+    "pnp.polacode",
     "esbenp.prettier-vscode",
-    "CoenraadS.bracket-pair-colorizer"
+    "aaron-bond.better-comments",
+    "qezhu.gitlink",
+    "robertohuertasm.vscode-icons",
+    "Shan.code-settings-sync"
   ]
 }
