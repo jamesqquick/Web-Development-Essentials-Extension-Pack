@@ -2,7 +2,7 @@
 
 This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!
 
-> Check out [Learn Visual Studio Code](https://www.udemy.com/learn-visual-studio-code) to learn everything you need to know about about the hottest editor in Web Development!
+> Check out [Learn Visual Studio Code](https://www.udemy.com/learn-visual-studio-code/?couponCode=LEARNVSCODE10) to learn everything you need to know about about the hottest editor in Web Development!
 
 ## Debugger for chrome
 
@@ -44,6 +44,10 @@ This an extension pack for Visual Studio Code with extensions that are extremely
 
 [https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
+## Sublime Text Keymap
+
+[https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
+
 ## Browser Preview
 
 [https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
@@ -79,3 +83,11 @@ This an extension pack for Visual Studio Code with extensions that are extremely
 ## Settings Sync
 
 [https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+
+## Better Align
+
+[https://marketplace.visualstudio.com/items?itemName=wwm.better-align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
+
+## VIM
+
+[https://marketplace.visualstudio.com/items?itemName=vscodevim.vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)

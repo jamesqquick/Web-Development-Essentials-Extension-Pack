@@ -2,7 +2,7 @@
   "name": "web-development-essentials-extension-pack",
   "displayName": "Web Development Essentials Extension Pack",
   "description": "This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "publisher": "jamesqquick",
   "engines": {
     "vscode": "^1.30.0"
@@ -26,6 +26,7 @@
     "christian-kohler.path-intellisense",
     "alefragnani.project-manager",
     "EditorConfig.EditorConfig",
+    "ms-vscode.sublime-keybindings",
     "auchenberg.vscode-browser-preview",
     "eamodio.gitlens",
     "pnp.polacode",
@@ -33,6 +34,8 @@
     "aaron-bond.better-comments",
     "qezhu.gitlink",
     "robertohuertasm.vscode-icons",
-    "Shan.code-settings-sync"
+    "PKief.material-icon-theme",
+    "Shan.code-settings-sync",
+    "vscodevim.vim"
   ]
 }
