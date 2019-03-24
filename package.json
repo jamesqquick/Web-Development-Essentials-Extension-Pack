@@ -26,7 +26,6 @@
     "christian-kohler.path-intellisense",
     "alefragnani.project-manager",
     "EditorConfig.EditorConfig",
-    "ms-vscode.sublime-keybindings",
     "auchenberg.vscode-browser-preview",
     "eamodio.gitlens",
     "pnp.polacode",
@@ -35,7 +34,6 @@
     "qezhu.gitlink",
     "vscode-icons-team.vscode-icons",
     "PKief.material-icon-theme",
-    "Shan.code-settings-sync",
-    "vscodevim.vim"
+    "Shan.code-settings-sync"
   ]
 }
