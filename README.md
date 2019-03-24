@@ -44,10 +44,6 @@ This an extension pack for Visual Studio Code with extensions that are extremely
 
 [https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
-## Sublime Text Keymap
-
-[https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
-
 ## Browser Preview
 
 [https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
@@ -87,7 +83,3 @@ This an extension pack for Visual Studio Code with extensions that are extremely
 ## Better Align
 
 [https://marketplace.visualstudio.com/items?itemName=wwm.better-align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
-
-## VIM
-
-[https://marketplace.visualstudio.com/items?itemName=vscodevim.vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)

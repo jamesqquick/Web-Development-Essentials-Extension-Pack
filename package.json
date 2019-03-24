@@ -2,7 +2,7 @@
   "name": "web-development-essentials-extension-pack",
   "displayName": "Web Development Essentials Extension Pack",
   "description": "This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "publisher": "jamesqquick",
   "engines": {
     "vscode": "^1.30.0"
