@@ -70,7 +70,7 @@ This an extension pack for Visual Studio Code with extensions that are extremely
 
 ## VS Code Icons
 
-[https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
+[https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 ## Material Icon Theme
 
