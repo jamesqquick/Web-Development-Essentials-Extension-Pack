@@ -1,7 +1,5 @@
 # Web Development Essentials Extension Pack
 
-This is a test for Github in VS COde!!
-
 This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!
 
 > Check out [Learn Visual Studio Code](https://www.udemy.com/learn-visual-studio-code/?couponCode=LEARNVSCODE10) to learn everything you need to know about about the hottest editor in Web Development!
