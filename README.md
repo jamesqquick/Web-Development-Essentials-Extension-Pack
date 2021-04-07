@@ -16,9 +16,9 @@ This an extension pack for Visual Studio Code with extensions that are extremely
 
 [https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-## Live server
+## Five server
 
-[https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+[https://marketplace.visualstudio.com/items?itemName=yandeu.five-server](https://marketplace.visualstudio.com/items?itemName=yandeu.five-server)
 
 ## Bracket Pair Colorizor
 
